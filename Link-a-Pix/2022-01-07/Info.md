@@ -4,4 +4,4 @@
 
 | Complete                  | Info              | Puzzle                |
 | ------------------------- | ----------------- | --------------------- |
-| ![Complete](Complete.PNG) | ![Info](Info.PNG) | ![Puzzle](Puzzle.PNG) |
+| ![Complete](Complete.png) | ![Info](Info.png) | ![Puzzle](Puzzle.png) |
